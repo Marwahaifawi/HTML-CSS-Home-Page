@@ -114,7 +114,7 @@ section {
     margin: 0;
 }
 
-.arc {
+.headerBackgroundArcDesign {
     position: absolute;
     height: 46%;
     width: 23%;
@@ -579,7 +579,7 @@ section span {
 }
 
 /* Hide the images by default */
-.mySlides {
+.slider {
     display: none;
     align-items: center;
     justify-content: center;
