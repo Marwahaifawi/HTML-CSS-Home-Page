@@ -579,7 +579,7 @@ section span {
 }
 
 /* Hide the images by default */
-.slider {
+.Sliders {
     display: none;
     align-items: center;
     justify-content: center;
